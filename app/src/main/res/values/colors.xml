@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#84241e</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="customStatusBarColor">#952f2f</color>
+    <color name="myAppBarColor">#FF5722</color>
+    <color name="myColor">#901717</color>
+    <color name="colorAccent">#84241e</color>
+    <color name="gray">#c0c0c0c0</color>
+    <color name="lightGrey">#c2c2c2</color>
+    <color name="textColor">#323033</color>
+    <color name="success">#009688</color>
+    <color name="warning">#f4511e</color>
+    <color name="neonGreen">#74d068</color>
+    <color name="colorDivider">#b8b8b8</color>
+    <color name="search_view">#BDBDBD</color>
+
+    <color name="goods_truck_background">#ffffff</color>
+    <color name="logo_color">#901717</color>
+    <color name="logo_color2">#c01a1a</color>
+    <color name="myColor2">#952f2f</color>
+    <color name="hyperlinkBlue">#1274d0</color>
+
+</resources>
